@@ -11,3 +11,7 @@
 
 ### TEST 
 - Problem with running this code : python manage.py test
+- Test worked as the file test.py tabs were not in place !!Attention!! 
+
+## Python not found
+- removed .venv and redo 
