@@ -1,4 +1,4 @@
 # News
 
 - skipped : chapter 12 Email
-- doing now : chapter 15 page no.
+- doing now : chapter 15 page no.262 comment view
